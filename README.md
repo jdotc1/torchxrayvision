@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [mlmed/torchxrayvision](https://github.com/mlmed/torchxrayvision), the library of chest X-ray datasets and models. Its common dataset interfaces, preprocessing, and pretrained classification, representation-learning, and segmentation models support research experiments and comparisons across data sources. The upstream documentation explains which labels and outputs apply to each dataset and model.
+
+Fork work is tracked in [upstream PR #199](https://github.com/mlmed/torchxrayvision/pull/199), proposing preservation of existing downloads when transfers fail. It was open on 17 October 2026 and remains on the linked feature branch.
+
+Start with the [official documentation](https://mlmed.org/torchxrayvision/) and the getting-started examples below. [Compare the default branch with upstream](https://github.com/jdotc1/torchxrayvision/compare/mlmed:main...jdotc1:main). The original model guidance, dataset notes, notebooks, and research references follow.
+
+---
+
 🚨 Paper now online! [https://arxiv.org/abs/2111.00595](https://arxiv.org/abs/2111.00595)
 
 🚨 Documentation now online! [https://mlmed.org/torchxrayvision/](https://mlmed.org/torchxrayvision/)
